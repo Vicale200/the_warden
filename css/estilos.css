@@ -1,0 +1,356 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Teko', sans-serif;
+    background: rgb(29, 29, 29);
+}
+
+.contenido-descripcion-mods{
+    font-size: 30px;
+    color: rgb(248, 192, 192);
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.img-dalasvsgrefg img{
+    width: 60%;
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.img-dalasvsgrefg-description img{
+    width: 60%;
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.img-enderexpansion img{
+    width: 60%;
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.enderexpansion-description img{
+    width: 60%;
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.img-canalprincipal img{
+    width: 20%;
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.img-canalsecundario img{
+    width: 20%;
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.img-canalsecundario-logo img{
+    width: 17%;
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.descripcion-proyectos h4{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 60px;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.descripciones{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 60px;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.dalasvsgrefg-description{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 60px;
+    color: white;
+}
+
+.link-mod{
+    font-size: 40px;
+    margin: auto;
+    margin-top: 60px;
+    color: rgb(90, 90, 90);
+    margin-bottom: 60px;
+    margin-left: 10px;
+}
+
+.link-mod > a:hover{
+    color: white;
+}
+
+.link-touch a{
+    color: white;
+    text-decoration: none;
+    font-size: 32px;
+}
+
+.link-touch > a:hover{
+    color: rgb(255, 215, 215);
+    font-size: 50px;
+    border: outset;
+}
+
+.link-canalprincipal{
+    font-size: 40px;
+    margin: auto;
+    margin-top: 60px;
+    color: rgb(90, 90, 90);
+    margin-bottom: 60px;
+    margin-left: 10px;
+}
+
+.link-canalprincipal > a:hover{
+    color: white;
+}
+
+.link-canalsecundario{
+    font-size: 40px;
+    margin: auto;
+    margin-top: 60px;
+    color: rgb(90, 90, 90);
+    margin-bottom: 60px;
+    margin-left: 10px;
+}
+
+.link-canalsecundario > a:hover{
+    color: white;
+}
+
+.contenedor{
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.titulo{
+    color: rgb(243, 47, 87);
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+/* Header */
+
+header{
+    width: 100%;
+    height: 700px;
+    background: #333333;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(0, 80%, 48%, 0.507), hsla(0, 0%, 20%, 0.507)), url(../img/Banner.png);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 80%, 48%, 0.507), hsla(0, 0%, 20%, 0.507)), url(../img/Banner.png);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+nav{
+    text-align: center;
+    padding: 30px 0 0 0;
+}
+
+nav > a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 6px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+nav > a:hover{
+    color: rgb(252, 136, 159);
+}
+
+header.textos-header{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.textos-header h1{
+    font-size: 80px;
+    color: rgb(252, 172, 188);
+    text-align:center;
+    margin-top: 70px;
+}
+
+.textos-header2{
+    font-size: 80px;
+    color: rgb(252, 172, 188);
+    text-align: center;
+    margin-top: 70px;
+}
+
+.contenido-descripcion{
+    font-size: 20px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.correo-direccion{
+    font-size: 20px;
+    color: rgb(255, 230, 230);
+    margin-top: 60px;
+}
+
+.imagen-acercade img{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    margin-left: 853px;
+}
+
+.correo-dudas{
+    text-align: center;
+}
+
+/* About us */
+
+.contenedor-sobre-nosotros{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagen-about-us{
+    width: 50%;
+}
+
+.sobre-nosotros .contenido-textos{
+    width: 50%;
+}
+
+.contenido-textos h3{
+    margin-bottom: 20px;
+    color: rgb(221, 118, 118);
+    font-size: 30px;
+}
+
+.contenido-textos h3 span{
+    background: red;
+    color: white;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    padding: 0 0px 20px 6px;
+    box-shadow: 0 0 6px 0 white;
+    margin-right: 16px;
+    margin-top: 10px;
+}
+
+.contenido-textos p{
+    padding: 0px 0px 30px 20px;
+    font-weight: 300;
+    text-align: justify;
+    color: rgb(248, 192, 192);
+    font-size: 20px;
+}
+
+/* Galeria */
+
+.menu{
+    background: rgb(14, 13, 13)
+}
+
+ .galeria-port{
+     display: flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+ }
+
+ .imagen-port{
+     width: 32%;
+     margin-bottom: 40px;
+     height: 150px;
+     overflow: hidden;
+     position: relative;
+     cursor: pointer;
+     box-shadow: 0 0 6px rgb(255, 255, 255);
+ }
+
+ .imagen-port > img{
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     display: block;
+ }
+
+ .hover-galeria{
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     top: 0;
+     color: white;
+     transform: scale(0);
+     background: rgba(247, 72, 72, 0.411);
+     transition: transform .5s;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+ }
+
+ .hover-galeria img{
+     width: 70px;
+ }
+
+ .hover-galeria p{
+     color: white;
+ }
+
+ .imagen-port:hover .hover-galeria{
+     transform: scale(1);
+ }
+
+ @media screen and (max-width:1200px){
+     header{
+         background-position: center;
+     }
+
+     .contenedor-sobre-nosotros{
+         flex-direction: column;
+         justify-content: column;
+         align-items: center;
+     }
+ }

@@ -15,7 +15,7 @@
             <h4>On this page we have a file name "Update Checker" and a file named "Changelog".Where you can find some things about Warden & Sculk mod<h4>
         </section>
         <section class="correo-direccion">
-            <h2>If you have questions you can send me an email:</h2>
+            <h4>If you have questions you can send me an email:</h4>
             <div class="imagen-acercade">
                 <img src="img/logowebvicale.png" alt="">
                  <div class="correo-dudas">

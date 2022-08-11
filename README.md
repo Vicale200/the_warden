@@ -1,2 +1,7 @@
-# the_warden update checker
-// Made for check updates for "The Warden mod"//
+<?php
+
+namespace WardenAndSculk
+
+  echo "<h1>Warden and Sculk Update Checker<h1>";
+
+?>

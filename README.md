@@ -16,7 +16,7 @@
     </header>
     <main>
         <section class="contenido-descripcion">
-            <h2>On this page we have a file name "Update Checker" and a file named "Changelog".Where you can find some things about Warden & Sculk mod<h2>
+            <h3>On this page we have a file name "Update Checker" and a file named "Changelog".Where you can find some things about Warden & Sculk mod<h3>
         </section>
         <section class="correo-direccion">
             <h2>If you have questions you can send me an email:</h2>

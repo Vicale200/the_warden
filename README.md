@@ -22,7 +22,7 @@
     </header>
     <main>
         <section class="contenido-descripcion">
-            <h2>En esta página puedes ver lo que hago y una breve descripción sobre mí, soy un "Youtuber" y además trato de realizar diferentes proyectos, puedes visitar diferentes apartados donde verás lo que hago respecto a vídeos, proyectos y mods. Busco entretener y además aprender y auto-mejorarme, actualmente tengo planes pero pocos proyectos realizados, todo eso se verá reflejado en esta página web.</h2>
+            <h2>On this page you can see every mod I made.</h2>
         </section>
         <section class="correo-direccion">
             <h2>If you have questions you can send me an email:</h2>

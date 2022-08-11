@@ -19,7 +19,7 @@
             <div class="imagen-acercade">
                 <img src="img/logowebvicale.png" alt="">
                  <div class="correo-dudas">
-                     <h3>vicalerespondetusdudas@gmail</h3>
+                     <h3>on progress</h3>
                  </div>
             </div>
         </section>

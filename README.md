@@ -4,18 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Vicale200-Acerca de mí</title>
+    <title><h1>Vicale200-Acerca de mí<h1></title>
     <link rel="stylesheet" href="css/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
-        <nav>
-            <a href="index.html">Inicio</a>
-            <a href="Mods.html">Mods</a>
-            <a href="Proyectos.html">Proyectos</a>
-            <a href="YouTube.html">YouTube</a>
-        </nav>
         <section class="textos-header2">
             <h1>Sobre mí</h1>
         </section>

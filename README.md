@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title><h1>Vicale200-Acerca de mí<h1></title>
+    <h1>Vicale200- Warden And Sculk Update Checker
     <link rel="stylesheet" href="css/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
 </head>
@@ -16,7 +16,7 @@
     </header>
     <main>
         <section class="contenido-descripcion">
-            <h2>On this page you can see every mod I made.</h2>
+            <h2>On this page we have a file name "Update Checker" and a file named "Changelog".Where you can find some things about Warden & Sculk mod<h2>
         </section>
         <section class="correo-direccion">
             <h2>If you have questions you can send me an email:</h2>

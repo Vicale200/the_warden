@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="us">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Vicale200-Acerca de mí</title>
-    <link rel="shortcut icon" href="img/logowebvicale.png" type="image/x-icon">
     <link rel="stylesheet" href="css/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
 </head>
@@ -26,7 +25,7 @@
             <h2>En esta página puedes ver lo que hago y una breve descripción sobre mí, soy un "Youtuber" y además trato de realizar diferentes proyectos, puedes visitar diferentes apartados donde verás lo que hago respecto a vídeos, proyectos y mods. Busco entretener y además aprender y auto-mejorarme, actualmente tengo planes pero pocos proyectos realizados, todo eso se verá reflejado en esta página web.</h2>
         </section>
         <section class="correo-direccion">
-            <h2>Si quieres comunicarte conmigo tienes el siguiente correo para mandar tus dudas, sugerencias o cualquier tema que creas conveniente</h2>
+            <h2>If you have questions you can send me an email:</h2>
             <div class="imagen-acercade">
                 <img src="img/logowebvicale.png" alt="">
                  <div class="correo-dudas">

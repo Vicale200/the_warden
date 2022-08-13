@@ -1,6 +1,29 @@
-2.6.3 - 1.16.5
+2.6.3-1.16.5
 
 1. Crash errors about mixins solved
 2. Fixed Warden walking randomly
 3. Warden detects player even on creative and spectator
 4. Updated geckolib to geckolib-forge-1.16.5-3.0.87
+
+2.6.2-1.16.5
+
+1. Deepslate can be rotated
+2. Fixed server crash error caused by SwiftSneakEvent (This event also works fine)
+3. Updated mod description
+
+2.6.2-1.18.2
+
+1.Warden can hear player walking
+2. FIxed server crash error caused by SwiftSneakEvent (This event also works fine)
+3. Fixed recipe of "5" music disc
+4. Updated mod description
+5.- Warden can hear every use of container blocks
+6.- Warden can hear teleports (Like Endermans)
+7.- Warden listens if player is flying
+8.- Warden listens when a baby spawns
+9.- Warden listens when an entity converted into another entity
+10.- Warden listens when an entity dies
+11.- Warden listens explosions
+12.- Warden listens when an item is fished
+13.- Warden listens equipment changes
+14.- Warden listens when a note block sounds

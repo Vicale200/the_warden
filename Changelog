@@ -1,23 +1,28 @@
-2.6.3-1.16.5
+2.6.5-1.16.5
 
-1. Crash errors about mixins solved
-2. Fixed Warden walking randomly
-3. Warden detects player even on creative and spectator
-4. Updated geckolib to geckolib-forge-1.16.5-3.0.87
+1.- For Warden generation the Sculk Shrieker will have preference for Sculk Blocks.
+2.- Darkness effect fog distance fixed.
+3.- Added corean traduction by  쏠끼리.
+4.- Added geckolib to mod.toml.
+5.- Fixed bug about entities esperience.
+6.- Decreased probability of play sounds in Sculk Shrieker.
+7.- Decreased probability of give darkness effect.
+8.- Changed Sculk Shrieker scream sounds (a little).
+9.- Fixed crash error about breaking sculk shrieker.
+10.- Fixed sonic boom doesn't show.
+11.- Added a new structure called "Deepslate Tower".
+12.- Fixed error about item entity colliding on sculk sensor.
+13.- Optimized options of config file.
+14.- Option for generating sculk biome now works correctly.
+15.- Fixed error about sculk shrieker screaming just once.
+16.- Fixed error about swift sneak enchantment.
+17.- Added new options for config file.
 
-2.6.2-1.18.2
+2.7.0-1.18.2
 
-1. Warden can hear player walking
-2. Fixed server crash error caused by SwiftSneakEvent (This event also works fine)
-3. Fixed recipe of "5" music disc
-4. Updated mod description
-5. Warden can hear every use of container blocks
-6. Warden can hear teleports (Like Endermans)
-7. Warden listens if player is flying
-8. Warden listens when a baby spawns
-9. Warden listens when an entity converted into another entity
-10. Warden listens when an entity dies
-11. Warden listens explosions
-12. Warden listens when an item is fished
-13. Warden listens equipment changes
-14. Warden listens when a note block sounds
+1.- Added an option to replace sculk biome in config file.
+2.- Added ancient cities.
+3.- Added options for ancient cities in config file.
+4.- Fixed crash related to darkness effect.
+5.- Added an option for sculk blobs about biomes to generate in.
+6.- Option enable sculk biome will affect every sculk feature and Ancient Cities generation. (There is a tag about where Ancient Cities can be generated).

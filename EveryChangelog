@@ -1,3 +1,12 @@
+2.7.0-1.18.2
+
+1.- Added an option to replace sculk biome in config file.
+2.- Added ancient cities.
+3.- Added options for ancient cities in config file.
+4.- Fixed crash related to darkness effect.
+5.- Added an option for sculk blobs about biomes to generate in.
+6.- Option enable sculk biome will affect every sculk feature and Ancient Cities generation. (There is a tag about where Ancient Cities can be generated).
+
 2.6.5-1.18.2
 
 1.- For Warden generation the Sculk Shrieker will have preference for Sculk Blocks.

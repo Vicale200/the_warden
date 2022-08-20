@@ -1,3 +1,18 @@
+2.7.5-1.18.2
+
+1.- Implemented Warden look animation.
+2.- Fixes for animations, sniff, listen, screaming.
+3.- Warden used to hurt himself. Fixed
+4.- Fixed Warden phases. Now the Warden won't change from phase chill to angry.
+5.- Warden now won't make invisible blocks. This used to happen when the Warden had less than 100 pts of health.
+6.- Warden will walk more usually.
+7.- Warden can't despawn if he has a nametag.
+8.- Warden used to jump too much on lava. Fixed
+9.- Added new sounds. Warden steps, sonic charge, sonic boom shoot, sculk shrieker phase 1, sculk shrieker phase 2
+10.- Fixed some bugs related to Warden targets.
+11.- Reduced sonic boom cooldown.
+12.- If Warden kills an entity it won't increase sonic boom cooldown.
+
 2.7.0-1.18.2
 
 1.- Added an option to replace sculk biome in config file.

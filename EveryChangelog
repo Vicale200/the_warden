@@ -1,3 +1,50 @@
+2.8.0-1.18.2
+
+1.- Improved ancient cities.
+2.- Changed some biome parameters.
+3.- Added new block tag called sculk_can_spread.json used for sculk propagation.
+4.- Added new block tag called sculk_veins_cannot_spread.json used for sculk veins spread.
+5.- Added new pieces for Ancient City.
+6.- Now Ancient Cities will start on the big portal section.
+7.- Fixed bug about "active" sculk catalyst texture not showing.
+8.- Fixed bug: Warden spawning rarely in walls.
+9.- Fixed bug: Warden and Sculk Shriekers may give creative players darkness effect.
+10.- Fixed bug related to op_chest.json loot table.
+11.- Sculk Blocks can support from 1 to 100 of charge but you need to configure how much you want on the config file. (Default:35)
+12.- Fixed bug: Warden doesn't show his animations.
+13.- Fixed bug: Warden can't walk on powder snow.
+14.- Warden can sniff the nearest player. and not a random player (Now is implemented as a goal)
+15.- Warden can hear every mob walking using a goal class. So Wardens will prefer hear this things instead of walking randomly.
+16.- Updated sonic boom goal. Now seems as vanilla with a cooldown of 40 to 60 ticks, Warden will walk slower to his target and then boom.
+17.- Fixed bug related to server crash.
+18.- Reorganized config file.
+19.- Added warden speed, warden attack and warden range to config file for Warden section.
+20.- Added darkness range, darkness speed and sculk charge to config file for Effects section.
+21.- Sculk Shriekers won't work if there isn't a player near. (Can be a creative player).
+22.- Reduced lag caused by Sculk Shriekers.
+23.- Reduced lag caused by Wardens.
+24.- Added W & S creative tab. (Even sculk sensor from vanilla is here)
+25.- Now the darkness effect duration and other options are more similar to vanilla.
+26.- Sculk Shriekers will do more tries for generate a Warden to the nearest player position.
+27.- Added new death message for sonic boom.
+28.- Updated sonic boom particles.
+29.- Entities can't spawn on sculk blocks (Can be outside deep dark/sculk biome)
+30.- Optimized sculk catalyst.
+31.- Sonic Boom works more as vanilla. Now this isn't a projectile.
+32.- Fixed bug: Warden don't use his angry phases.
+33.- Fixed: Sculk block and veins can spread on blocks that are supposed to not spread.
+34.- Fixed bug: Warden Sonic Boom start charge sound don't work.
+35.- Fixed bug: Chests of Ancient Cities don't use loot tables.
+36.- Added background based on this mod.
+37.- Added more Warden phases.
+38.- Emerge animation is adjusted to 60 ticks.
+39.- Roar animation works directly on "set target void" and it has a delay. (Warden can attack other entities insted of thinking of his life after making his roar)
+40.- Added 3 themes for sculk biome.
+41.- Added new ambient sound.
+42.- Every time the Warden hears something he will first walk a bit instead of changing instantly the target as used to be.
+43.- Added comments to some things (This will be useful because I'm thinking of upload this version on GitHub)
+44.- Updated license.
+
 2.7.5-1.18.2
 
 1.- Implemented Warden look animation.

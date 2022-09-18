@@ -1,22 +1,15 @@
-2.6.5-1.16.5
+2.6.6-1.16.5
 
-1.- For Warden generation the Sculk Shrieker will have preference for Sculk Blocks.
-2.- Darkness effect fog distance fixed.
-3.- Added corean traduction by  쏠끼리.
-4.- Added geckolib to mod.toml.
-5.- Fixed bug about entities esperience.
-6.- Decreased probability of play sounds in Sculk Shrieker.
-7.- Decreased probability of give darkness effect.
-8.- Changed Sculk Shrieker scream sounds (a little).
-9.- Fixed crash error about breaking sculk shrieker.
-10.- Fixed sonic boom doesn't show.
-11.- Added a new structure called "Deepslate Tower".
-12.- Fixed error about item entity colliding on sculk sensor.
-13.- Optimized options of config file.
-14.- Option for generating sculk biome now works correctly.
-15.- Fixed error about sculk shrieker screaming just once.
-16.- Fixed error about swift sneak enchantment.
-17.- Added new options for config file.
+1.- Added sounds used on 1.18.2 version
+2.- Changed sonic boom goal.
+3.- Added roar cooldown.
+4.- Fixed the same issue as 1.18.2-2.8.1 (Server crash caused by player tick and related to darkness effect)
+5.- Sculk Shriekers can use more sounds as 1.18.2 version.
+6.- Sculk Shriekers now generate Wardens as 1.18.2 version.
+7.- Sculk Shriekers now won't over generate Wardens.
+8.- Added new death message.
+
+There are more things I need to do but one by one.
 
 2.8.0-1.18.2
 

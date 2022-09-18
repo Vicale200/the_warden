@@ -1,3 +1,29 @@
+2.6.6-1.16.5
+
+1.- Added sounds used on 1.18.2 version
+2.- Changed sonic boom goal.
+3.- Added roar cooldown.
+4.- Fixed the same issue as 1.18.2-2.8.1 (Server crash caused by player tick and related to darkness effect)
+5.- Sculk Shriekers can use more sounds as 1.18.2 version.
+6.- Sculk Shriekers now generate Wardens as 1.18.2 version.
+7.- Sculk Shriekers now won't over generate Wardens.
+8.- Added new death message.
+
+There are more things I need to do but one by one.
+
+2.8.5-1.18.2
+
+1.- Fixed crash error on servers caused by listen timer woking only in client.
+2.- Fixed Warden attack animation.
+3.- Improved Warden model and Warden textures.
+4.- Reduced sonic boom cooldown.
+5.- Added glowing dots layer.
+6.- Improved Warden animations.
+
+2.8.1-1.18.2
+
+1.- Fixed server crash caused by player tick (Darkness effect related)
+
 2.8.0-1.18.2
 
 1.- Improved ancient cities.

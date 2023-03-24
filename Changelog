@@ -11,11 +11,8 @@
 
 There are more things I need to do but one by one.
 
-2.8.5-1.18.2
+2.9.0-1.18.2
 
-1.- Fixed crash error on servers caused by listen timer woking only in client.
-2.- Fixed Warden attack animation.
-3.- Improved Warden model and Warden textures.
-4.- Reduced sonic boom cooldown.
-5.- Added glowing dots layer.
-6.- Improved Warden animations.
+1.- Fixed crash error caused by casting projectile owner to LivingEntity.
+2.- Updated forge and mappings.
+3.- Reduced a bit sonic boom cooldown.

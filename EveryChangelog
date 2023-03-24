@@ -1,3 +1,9 @@
+2.9.0-1.18.2
+
+1.- Fixed crash error caused by casting projectile owner to LivingEntity.
+2.- Updated forge and mappings.
+3.- Reduced a bit sonic boom cooldown.
+
 2.6.6-1.16.5
 
 1.- Added sounds used on 1.18.2 version

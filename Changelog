@@ -11,8 +11,11 @@
 
 There are more things I need to do but one by one.
 
-2.9.0-1.18.2
+3.0.0-1.18.2
 
-1.- Fixed crash error caused by casting projectile owner to LivingEntity.
-2.- Updated forge and mappings.
-3.- Reduced a bit sonic boom cooldown.
+1.- Added terrablender dependency.
+2.- Fixed biome generation compatibility with other mods (Deep Dark biome can be generated with other mod biomes).
+3.- Renamed Sculk biome to Deep Dark.
+4.- Now only the players can generate Wardens with Sculk Shriekers.
+5.- Updated forge and geckolib.
+6.- Slightly changed Warden animations.
